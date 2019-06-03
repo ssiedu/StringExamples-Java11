@@ -32,6 +32,9 @@ public class StringMethodsOne {
 /*
     Non-Static of String class
     -----------------------------
+    Comparison Methods
+    ----------------------
+
     boolean equals(String)
         compares the contents of two objects.
         (case sensitive comparison)
