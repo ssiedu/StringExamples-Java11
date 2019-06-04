@@ -125,16 +125,10 @@ use string concatination (+)
 
 Task-9
 -------
-
 Solve the problem given in Task-8 using StringBuffer.
-
-
-
-
 
 Task-10
 ------
-
 Take a string with some city names.
 String s="indore,mumbai,delhi,chennai,pune";
 print the names of every individual city in new line.
@@ -144,6 +138,34 @@ mumbai
 delhi
 chennai
 pune
+(Without String Tokenizer)
+
+Task-11
+---------
+
+String s="1.India,2.Australia,3.Canada,4.UK,5.USA,6.UAE";
+
+India
+Australia
+Canada
+UK
+USA
+UAE
+
+Create the tokens using StringTokenizer
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
